@@ -1,9 +1,8 @@
 {
   "name": "StairsFix",
-  "version_number": "1.0.0",
+  "version_number": "2.0.1",
   "website_url": "",
   "description": "Obstructs the one-way-jail on the stairs",
   "dependencies": [
-        "LavaGang-MelonLoader-0.5.7"
   ]
 }

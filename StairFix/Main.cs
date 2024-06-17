@@ -4,7 +4,15 @@ using UnityEngine;
 
 namespace StairFix
 {
-    public class TemplateClass : MelonMod
+    public static class BuildInfo
+    {
+        public const string ModName = "StairsFix";
+        public const string ModVersion = "2.0.1";
+        public const string Description = "Obstructs the jail.";
+        public const string Author = "Baumritter";
+        public const string Company = "";
+    }
+    public class StairFixClass : MelonMod
     {
         //constants
         private const double SceneDelay = 4.0;
