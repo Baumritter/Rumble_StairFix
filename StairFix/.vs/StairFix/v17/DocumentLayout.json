@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|g:\\01_rumble\\10_mods\\rumble_stairfix\\stairfix\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6C4365-E862-4DC4-BE25-EDB2E35F4AAE}|StairFix.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
               "ToolTip": "G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T01:27:58.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Main.cs",
               "DocumentMoniker": "G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
               "ToolTip": "G:\\01_Rumble\\10_Mods\\Rumble_StairFix\\StairFix\\Main.cs",
               "RelativeToolTip": "Main.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T00:33:50.428Z",
               "EditorCaption": ""

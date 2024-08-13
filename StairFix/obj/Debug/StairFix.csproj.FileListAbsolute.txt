@@ -108,3 +108,4 @@ G:\01_Rumble\10_Mods\Rumble_StairFix\StairFix\bin\Debug\Il2CppPhotonVoice.API.dl
 G:\01_Rumble\10_Mods\Rumble_StairFix\StairFix\bin\Debug\System.Text.Json.dll
 G:\01_Rumble\10_Mods\Rumble_StairFix\StairFix\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
 G:\01_Rumble\10_Mods\Rumble_StairFix\StairFix\obj\Debug\StairFix.csproj.Up2Date
+G:\01_Rumble\10_Mods\Rumble_StairFix\StairFix\bin\Debug\Microsoft.Win32.SystemEvents.dll

@@ -1,4 +1,4 @@
-# Version 2.0.0+ requires MelonLoader 0.6.2
+# Version 2.0.0+ requires MelonLoader 0.6.X
 ## Installation Instructions
 1. Install MelonLoader
 2. Run Game

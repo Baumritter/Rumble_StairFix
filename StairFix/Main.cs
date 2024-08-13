@@ -7,7 +7,7 @@ namespace StairFix
     public static class BuildInfo
     {
         public const string ModName = "StairsFix";
-        public const string ModVersion = "2.0.1";
+        public const string ModVersion = "2.0.2";
         public const string Description = "Obstructs the jail.";
         public const string Author = "Baumritter";
         public const string Company = "";
